@@ -6,3 +6,4 @@
 - https://www.youtube.com/watch?v=fZjm-MuA2_s
 - https://www.youtube.com/watch?v=po8ZFG0Xc4Q
 - https://www.youtube.com/watch?v=LCTZ1kJvC70
+- https://www.geeksforgeeks.org/computer-networks/introduction-to-subnetting/
