@@ -10,3 +10,4 @@
 - https://www.geeksforgeeks.org/computer-networks/role-of-subnet-mask/
 - https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
 - https://www.youtube.com/watch?v=pCcJFdYNamc
+- https://www.youtube.com/watch?v=MXxamF0KXyU
