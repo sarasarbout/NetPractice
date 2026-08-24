@@ -1,3 +1,5 @@
+#### this project has been created as part of the 42 curriculum by sasarbou
+
 ### Resources:
 - https://www.youtube.com/watch?v=Nnv36wG_iCI
 - https://www.geeksforgeeks.org/computer-networks/difference-between-private-and-public-ip-addresses/
