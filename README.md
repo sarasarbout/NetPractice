@@ -18,3 +18,4 @@
 - https://www.youtube.com/watch?v=g2fT-g9PX9o
 - https://www.youtube.com/watch?v=0tEjUR6tjBU
 - https://www.youtube.com/watch?v=NyZWSvSj8ek
+- https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
