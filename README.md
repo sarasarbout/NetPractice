@@ -20,3 +20,4 @@
 - https://www.youtube.com/watch?v=NyZWSvSj8ek
 - https://www.youtube.com/watch?v=5WfiTHiU4x8
 - https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
+- https://www.geeksforgeeks.org/computer-networks/application-layer-in-osi-model/
