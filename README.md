@@ -24,3 +24,4 @@
 - https://medium.com/@gpiechnik/dns-protocol-explained-70f39a2a5a6e
 - https://www.youtube.com/watch?v=j5KlYqZDtt0
 - https://www.techtarget.com/it-infrastructure/definition/data-compression
+- https://www.fortinet.com/resources/cyberglossary/tcp-ip
