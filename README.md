@@ -25,4 +25,5 @@
 - https://www.youtube.com/watch?v=j5KlYqZDtt0
 - https://www.techtarget.com/it-infrastructure/definition/data-compression
 - https://www.fortinet.com/resources/cyberglossary/tcp-ip
--OSI layer: https://www.youtube.com/watch?v=61kRxdZ5p-o
+- OSI layer: https://www.youtube.com/watch?v=61kRxdZ5p-o
+- CIDR notation: https://aws.amazon.com/what-is/cidr/
