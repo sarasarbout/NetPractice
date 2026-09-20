@@ -27,3 +27,4 @@
 - https://www.fortinet.com/resources/cyberglossary/tcp-ip
 - OSI layer: https://www.youtube.com/watch?v=61kRxdZ5p-o
 - CIDR notation: https://aws.amazon.com/what-is/cidr/
+- IP addresses: https://github.com/sarasarbout/NetPractice.git
