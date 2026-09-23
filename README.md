@@ -28,3 +28,4 @@
 - OSI layer: https://www.youtube.com/watch?v=61kRxdZ5p-o
 - CIDR notation: https://aws.amazon.com/what-is/cidr/
 - CRC error detection: https://www.youtube.com/watch?v=A9g6rTMblz4
+- Egyptian Youtuber (Physical Layer): https://www.youtube.com/watch?v=O5Z_RVRAR9c&t=321s
