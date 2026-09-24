@@ -44,7 +44,7 @@ The project is considered complete when all 10 levels have been successfully con
 
 No compilation or execution of source code is required, as the project focuses on practical network configuration exercises.
 
-### Features:
+### Features / Usage:
 - Configure IPv4 addresses.
 - Configure subnet masks.
 - Understand network and broadcast addresses.
