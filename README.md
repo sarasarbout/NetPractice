@@ -44,6 +44,17 @@ The project is considered complete when all 10 levels have been successfully con
 
 No compilation or execution of source code is required, as the project focuses on practical network configuration exercises.
 
+### Features:
+- Configure IPv4 addresses.
+- Configure subnet masks.
+- Understand network and broadcast addresses.
+- Divide networks into smaller subnets.
+- Configure routers and their interfaces.
+- Configure routing between different networks.
+- Verify whether devices can communicate.
+- Practice identifying valid and invalid IP configurations.
+- Solve progressively more complex networking exercises.
+
 
 ### Resources:
 - IPv4/IPv6: https://www.youtube.com/watch?v=Nnv36wG_iCI
