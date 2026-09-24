@@ -72,3 +72,4 @@ No compilation or execution of source code is required, as the project focuses o
 - CIDR notation: https://aws.amazon.com/what-is/cidr/
 - CRC error detection: https://www.youtube.com/watch?v=A9g6rTMblz4
 - Egyptian Youtuber (OSI): https://www.youtube.com/watch?v=A31bxOyj5mk&t=385s
+- Routers: https://www.geeksforgeeks.org/computer-networks/introduction-of-a-router/
